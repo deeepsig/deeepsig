@@ -32,7 +32,7 @@
 
 ### Honors and Awards 🏅
 
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in 2021.
+- Selected as a scholarship recipient for [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
  
 
 
