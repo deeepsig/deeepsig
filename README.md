@@ -1,4 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak!](https://twitter.com/Mr_dg_wick) aka [Mr-DG-Wick!](https://twitter.com/Mr_dg_wick)
+![Untitled design (9)](https://user-images.githubusercontent.com/81250703/135252957-3e68734f-f9a8-4aac-ac56-1148df920af7.png)
 
 <a href="https://www.linkedin.com/in/mrdgwick/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
