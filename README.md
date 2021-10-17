@@ -29,7 +29,7 @@
 - [Google DSC Core '21](https://gdsc.community.dev/national-institute-of-technology-nit-warangal/) - Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Core members are the ones responsible for organizing events and workshops in their developer community. Some of my works include :
    - The creation of the [Discord server](https://discord.gg/v88Fp89NQ4) for the community.
    - Managing the Design Operations and conducting sessions and workshops.
-- Got selected as an [All things Open](https://www.allthingsopen.org/) Ambassador in the year 2021.
+- Selected as an [All things Open](https://www.allthingsopen.org/) Ambassador in the year 2021.
 
 ### Honors and Awards 🏅
 
