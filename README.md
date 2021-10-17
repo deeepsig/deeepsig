@@ -29,12 +29,13 @@
 - [Google DSC Core '21](https://gdsc.community.dev/national-institute-of-technology-nit-warangal/) - Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Core members are the ones responsible for organizing events and workshops in their developer community. Some of my works include :
    - The creation of the [Discord server](https://discord.gg/v88Fp89NQ4) for the community.
    - Managing the Design Operations and conducting sessions and workshops.
+- Got selected as an [All things Open](https://www.allthingsopen.org/) Ambassador in the year 2021.
 
 ### Honors and Awards 🏅
 
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
 - [Battlesnake](https://play.battlesnake.com/) - Kubecon Cup '21 Semifinalist.
-- Top 10 finish in [BugBash '21](https://bugbash.muse.dev/) presented by CNCF + SONATYPE.
+- Top 10 finish in [BugBash](https://bugbash.muse.dev/) presented by CNCF + SONATYPE in the year 2021.
  
 
 
