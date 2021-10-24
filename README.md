@@ -31,6 +31,17 @@
    - Managing the Design Operations and conducting sessions and workshops.
 - Selected as an [All things Open](https://www.allthingsopen.org/) Ambassador in the year 2021.
 
+### Ambitious projects
+- [Lamp Attack](https://youtu.be/w5oKCQUjC4A) : An International short animation movie project. As the name suggests, the movie is a dark comedy revolving around our own familiar pixar lamps. Being a part of the project, I worked on developing models and texturing them to fit for the theme of the project. Project was highly organized and we premiered it on Oct 2, 2021.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81250703/138585908-2d705c5a-36fd-4786-bdc2-115f51cc2aaf.png">
+</p>
+
+<!-- ![poster_small](https://user-images.githubusercontent.com/81250703/138585908-2d705c5a-36fd-4786-bdc2-115f51cc2aaf.png) -->
+
+
+
 ### Honors and Awards 🏅
 
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
