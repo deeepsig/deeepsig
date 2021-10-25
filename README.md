@@ -19,12 +19,12 @@
 
 <br />
 
-### About Me 🚀
+### About Me
 
 🎓 I'm an Open Source & Security enthusiast, also I'm a sophomore pursuing my Bachelors in Bio-Technology from NIT Warangal. </br>
 👨‍💻 I am passionate about Web architecture, Linux kernel, Compilers, Code Review and Organized Coding.
 
-### My Experiences🙌
+### My Experience
 
 - [Google DSC Core '21](https://gdsc.community.dev/national-institute-of-technology-nit-warangal/) - Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Core members are the ones responsible for organizing events and workshops in their developer community. Some of my works include :
    - The creation of the [Discord server](https://discord.gg/v88Fp89NQ4) for the community.
@@ -42,7 +42,7 @@
 
 
 
-### Honors and Awards 🏅
+### Honors and Awards
 
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
 - [Battlesnake](https://play.battlesnake.com/) - Kubecon Cup '21 Semifinalist.
