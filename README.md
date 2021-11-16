@@ -22,7 +22,7 @@
 ### About Me
 
 🎓 I'm an Open Source & Security enthusiast, also I'm a sophomore pursuing my Bachelors in Bio-Technology from NIT Warangal. </br>
-👨‍💻 I am passionate about Web architecture, Linux kernel, Compilers, Code Review,documentation, security and Organized Coding.
+👨‍💻 I am passionate about Web architecture, Linux kernel, Compilers, Code Review, documentation, security and Organized Coding.
 
 ### My Experience
 
