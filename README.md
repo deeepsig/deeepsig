@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak!](https://www.linkedin.com/in/mrdgwick/) aka [Mr-DG-Wick!](https://www.linkedin.com/in/mrdgwick/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak](https://www.linkedin.com/in/mrdgwick/) aka [Mr-DG-Wick!](https://www.linkedin.com/in/mrdgwick/)
 
 <a href="https://www.linkedin.com/in/mrdgwick/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -21,7 +21,7 @@
 
 ### About Me
 
-🎓 I'm an Open Source & Security enthusiast, also I'm a sophomore pursuing my Bachelors in Bio-Technology from NIT Warangal. </br>
+🎓 I'm a sophomore pursuing my Bachelors in Bio-Technology from NIT Warangal. </br>
 👨‍💻 I am passionate about Web architecture, Linux kernel, Compilers, Code Review, documentation, security and Organized Coding.
 
 ### My Experience
