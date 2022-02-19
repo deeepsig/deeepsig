@@ -26,7 +26,8 @@
 
 ### My Experience
 
-- [Community Manager, Layer5](https://layer5.io/community/members/deepak-gupta)
+- Growth Engineering Intern at [Slik](https://www.sliksafe.com/)
+- [prev- Community Manager, Layer5](https://layer5.io/community/members/deepak-gupta) 
 - [Google DSC Core '21](https://gdsc.community.dev/national-institute-of-technology-nit-warangal/) - Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Core members are the ones responsible for organizing events and workshops in their developer community. Some of my works include :
    - The creation of the [Discord server](https://discord.gg/v88Fp89NQ4) for the community.
    - Managing the Design Operations and conducting sessions and workshops.
