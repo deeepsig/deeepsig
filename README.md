@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak](https://www.linkedin.com/in/mrdgwick/) aka [Mr-DG-Wick!](https://www.linkedin.com/in/mrdgwick/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak](https://www.linkedin.com/in/mrdgwick/) 
 
 <a href="https://www.linkedin.com/in/mrdgwick/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -21,30 +21,8 @@
 
 ### About Me
 
-🎓 I'm an aspiring Quantitative Developer. I live in India and I'm in my junior year at NITW. </br>
+I'm a student with a passion for computer science who is driven by curiosity to solve complex problems that have an immediate impact using code and algorithms. Naturally curious, I thoroughly enjoy asking questions about how things work and how they can be improved. However, my realization of truly enjoying problem-solving with immediate impact has only come through experiential learning. 
 
-### My Experience
+I am an individual who derives profound fulfillment from the work I engage in, firmly convinced that true satisfaction is achieved through crafting solutions to captivating problems. I am constantly seeking opportunities to optimize both new and existing solutions, driven by my unwavering desire to tackle challenging problems head-on.
 
-- prev- Growth Engineering Intern at [Slik](https://www.sliksafe.com/)
-- [prev- Community Manager, Layer5](https://layer5.io/community/members/deepak-gupta) 
-- [Google DSC Core '21](https://gdsc.community.dev/national-institute-of-technology-nit-warangal/) - Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. Core members are the ones responsible for organizing events and workshops in their developer community. Some of my works include :
-   - The creation of the [Discord server](https://discord.gg/v88Fp89NQ4) for the community.
-   - Managing the Design Operations and conducting sessions and workshops.
-- Selected as an [All things Open](https://www.allthingsopen.org/) Ambassador in the year 2021.
-
-### Creative Projects
-- [Lamp Attack](https://youtu.be/w5oKCQUjC4A) : An International short animation movie project. As the name suggests, the movie is a dark comedy revolving around our own familiar pixar lamps. Being a part of the project, I worked on developing models and texturing them to fit for the theme of the project. Project was highly organized and we premiered it on Oct 2, 2021.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81250703/138585908-2d705c5a-36fd-4786-bdc2-115f51cc2aaf.png">
-</p>
-
-
-### Honors and Awards
-
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2021.
-- [Battlesnake](https://play.battlesnake.com/) - Kubecon Cup '21 Semifinalist.
-- Top 10 finish in [BugBash](https://bugbash.muse.dev/) presented by CNCF + SONATYPE in the year 2021.
- 
-
-
+Feel free to visit my website to learn more about me : https://mr-dg-wick.github.io/ , or you could leave a mail at deepak.gupta.h401@gmail.com
