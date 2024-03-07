@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mrdgwick/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/Mr_dg_wick">
+<a href="https://twitter.com/deeepsig">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:deepak.gupta.h401@gmail.com
