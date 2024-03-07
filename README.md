@@ -13,16 +13,16 @@
 <!-- <a href="https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
-<a href="https://dev.to/mrdgwick">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
 <br />
 
 ### About Me
 
-I'm a student with a passion for computer science who is driven by curiosity to solve complex problems that have an immediate impact using code and algorithms. Naturally curious, I thoroughly enjoy asking questions about how things work and how they can be improved. However, my realization of truly enjoying problem-solving with immediate impact has only come through experiential learning. 
+Hi, I'm Deepak. I am currently seeking new grad 2024 SWE/ML engineer roles.
 
-I am an individual who derives profound fulfillment from the work I engage in, firmly convinced that true satisfaction is achieved through crafting solutions to captivating problems. I am constantly seeking opportunities to optimize both new and existing solutions, driven by my unwavering desire to tackle challenging problems head-on.
+Latest work: I built a python library called `tokviz` which is available on PyPI. `tokviz` is a Python library for visualizing tokenization patterns across different language models. This library offers a comprehensive platform for researchers, data scientists, and NLP enthusiasts to gain insights into how different language models process and tokenize text.
+
+Try it on your projects: https://pypi.org/project/tokviz/
+Documentation: https://github.com/Mr-DG-Wick/tokviz
 
 Feel free to visit my website to learn more about me : https://mr-dg-wick.github.io/ , or you could leave a mail at deepak.gupta.h401@gmail.com
