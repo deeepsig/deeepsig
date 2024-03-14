@@ -18,11 +18,18 @@
 
 ### About Me
 
-Hi, I'm Deepak. I am currently seeking new grad 2024 SWE/ML engineer roles.
+Hey there, I'm Deepak!
+
+I'm a student based in India 🐱‍🏍 where I study software engineering. When I'm not obsessing over my notion site, I'm learning new technologies, building interesting apps that solve my problems (and hopefully of others), and discussing architecture and startups with my friend.
+
+Looking for new grad opportunities in 2024.
+
+Tech Stack: Python, NodeJS, React, C/C++, LLMs, fastai, Pytorch.
 
 Latest work: I built a python library called `tokviz` which is available on PyPI. `tokviz` is a Python library for visualizing tokenization patterns across different language models. This library offers a comprehensive platform for researchers, data scientists, and NLP enthusiasts to gain insights into how different language models process and tokenize text.
 
 Try it on your projects: https://pypi.org/project/tokviz/
 Documentation: https://github.com/Mr-DG-Wick/tokviz
 
-Feel free to visit my website to learn more about me : https://mr-dg-wick.github.io/ , or you could leave a mail at deepak.gupta.h401@gmail.com
+Please email me! I like people. email: deepak.gupta.h401@gmail.com 📩
+Or just send in a LinkedIn message 😄
