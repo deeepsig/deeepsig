@@ -1,4 +1,5 @@
-....
+```
+                                  ....
                                 .'' .'''
 .                             .'   :
 \\                          .:    :
@@ -30,12 +31,15 @@
                   .:..... \\:       :            ..''
                  '._____|'.\\......'''''''.:..'''
                             \\
-
 I spend most of my time building and designing experiences 
 I believe would be fun.
 
 Currently crafting:
+
 Cartique - A cartography tool for the curious
 Wander - A road trip planning and journaling experience
 
 "All we have to decide is what to do with the time that is given us."
+
+```
+
