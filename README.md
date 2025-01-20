@@ -1,15 +1,41 @@
-⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆
+....
+                                .'' .'''
+.                             .'   :
+\\                          .:    :
+ \\                        _:    :       ..----.._
+  \\                    .:::.....:::.. .'         ''.
+   \\                 .'  #-. .-######'     #        '.
+    \\                 '.##'/ ' ################       :
+     \\                  #####################         :
+      \\               ..##.-.#### .''''###'.._        :
+       \\             :--:########:            '.    .' :
+        \\..__...--.. :--:#######.'   '.         '.     :
+        :     :  : : '':'-:'':'::        .         '.  .'
+        '---'''..: :    ':    '..'''.      '.        :'
+           \\  :: : :     '      ''''''.     '.      .:
+            \\ ::  : :     '            '.      '      :
+             \\::   : :           ....' ..:       '     '.
+              \\::  : :    .....####\\ .~~.:.             :
+               \\':.:.:.:'#########.===. ~ |.'-.   . '''.. :
+                \\    .'  ########## \ \ _.' '. '-.       '''.
+                :\\  :     ########   \ \      '.  '-.        :
+               :  \\'    '   #### :    \ \      :.    '-.      :
+              :  .'\\   :'  :     :     \ \       :      '-.    :
+             : .'  .\\  '  :      :     :\ \       :        '.   :
+             ::   :  \\'  :.      :     : \ \      :          '. :
+             ::. :    \\  : :      :    ;  \ \     :           '.:
+              : ':    '\\ :  :     :     :  \:\     :        ..'
+                 :    ' \\ :        :     ;  \|      :   .'''
+                 '.   '  \\:                         :.''
+                  .:..... \\:       :            ..''
+                 '._____|'.\\......'''''''.:..'''
+                            \\
 
-i build experiences through design & code
+I spend most of my time building and designing experiences 
+I believe would be fun.
 
-currently crafting:
+Currently crafting:
+Cartique - A cartography tool for the curious
+Wander - A road trip planning and journaling experience
 
-cartique
-↳ a cartography tool for the curious
-
-wander
-↳ a road trip planning & journaling experience
-
-⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆⋅⋆
-
-find me @ deeepsig
+"All we have to decide is what to do with the time that is given us."
